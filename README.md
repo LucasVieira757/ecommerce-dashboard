@@ -15,4 +15,11 @@ Projeto de análise de dados com PostgreSQL, Python e Streamlit.
 - top cidades
 - faturamento por estado
 - top produtos
+
 - tabela detalhada
+
+- ## Dashboard online
+
+Acesse o dashboard:
+
+https://ecommerce-dashboard-p3wfm9hryinme87qgknhzx.streamlit.app/
